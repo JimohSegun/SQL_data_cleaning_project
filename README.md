@@ -1,6 +1,6 @@
 # Introduction
 
-This project explores the NashvilleHousing data, emphasizing data cleaning for analysis. We focus on standardizing date formats, populating property address data, breaking addresses into individual columns (Address, City, State), changing "Y" and "N" to "Yes" and "No" in the "Sold as Vacant" field, removing duplicates, and deleting unused columns.
+This project explores the NashvilleHousing data, emphasizing data cleaning for analysis. I focus on standardizing date formats, populating property address data, breaking addresses into individual columns (Address, City, State), changing "Y" and "N" to "Yes" and "No" in the "Sold as Vacant" field, removing duplicates, and deleting unused columns.
 
 # Background
 
